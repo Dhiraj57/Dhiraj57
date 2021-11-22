@@ -25,8 +25,18 @@ Hi there 👋
 
 <br/>
 
+## My Skill Set  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
+
+
+<br/>  
+
 ## Connect with Me 🤝🏻
 
+<a href="https://replit.com/@DhirajMagdum" target="_blank">
+<img src=https://img.shields.io/badge/replit-%2324292e.svg?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.linkedin.com/in/dhiraj-magdum?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgPVAHQrIRSiokttAvQuhzg%3D%3D" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
