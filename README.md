@@ -48,9 +48,9 @@ Hi there 👋
  
 ![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
 
+ <br/>
 
-Watch my contribution graph ! 🐍
-
+My contribution graph :
 ![Watch my contribution graph !](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/master/soc/snake.svg)
 
 
