@@ -23,7 +23,7 @@ Hi there 👋
 | [**Simple Shooter**](https://github.com/Dhiraj57/SimpleShooter/) | [![GitHub issues](https://img.shields.io/github/issues/Dhiraj57/SimpleShooter?color=green&logo=github&style=flat)](https://github.com/Dhiraj57/SimpleShooter/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Dhiraj57/SimpleShooter?style=flat&logo=github)](https://github.com/Dhiraj57/SimpleShooter/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Dhiraj57/SimpleShooter?style=flat&color=critical&logo=github)](https://github.com/Dhiraj57/SimpleShooter/pulls?q=is%3Apr+is%3Aclosed)   |
 | [**Castle Guard**](https://github.com/Dhiraj57/Castle_Guard/) | [![GitHub issues](https://img.shields.io/github/issues/Dhiraj57/Castle_Guard?color=green&logo=github&style=flat)](https://github.com/Dhiraj57/Castle_Guard/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Dhiraj57/Castle_Guard?style=flat&logo=github)](https://github.com/Dhiraj57/Castle_Guard/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Dhiraj57/Castle_Guard?style=flat&color=critical&logo=github)](https://github.com/Dhiraj57/Castle_Guard/pulls?q=is%3Apr+is%3Aclosed)   |
 
-</br>
+<br/>
 
 ## Connect with Me 🤝🏻
 
@@ -41,10 +41,17 @@ Hi there 👋
 </a>
 <a href="https://www.facebook.com/dhiraj.magdum.90/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<br/>
 </a>
  
+ <br/>
+ 
+![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
 
 
+Watch my contribution graph ! 🐍
+
+![Watch my contribution graph !](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/master/soc/snake.svg)
 
 
 
