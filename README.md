@@ -1,11 +1,13 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
 
-Hi there 👋
-##
+# Hello there! 👋🏻 I am Dhiraj Magdum! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
+I'm the hero of a thousand stories. I'm a superhero, an assassin a soldier. I've slain dragons and traveled through portals. 
+I am a spartan, a commander. A king. I've saved a thousand worlds and countless more lives...!  You see, video games have ruined my life. But the good thing is, I have two more. 😜 
 
-<br/>
+In a nutshell, I'am gamer, game developer and a game artist. At the core, I am a explorer who loves trying new things.
+This is what keeps me up at night, a never ending thirst to create beautiful things and share them with the world.
 
 ### Check out my latest creations on my [YouTube Channel](https://www.youtube.com/channel/UC0IIGVFJE3vCvDO0FXDnQwg). Here are some of my recent projects:
 
@@ -25,14 +27,15 @@ Hi there 👋
 
 <br/>
 
-## My Skill Set  
+<!-- ## Skill Set 
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
 
 
 <br/>  
-
-## Connect with Me 🤝🏻
+ -->
+## Connect with me 🤝🏻
+Usually, you can find me at my desk, sipping my cafe while implementing new feature in my game. But in any case, you can also get in touch below.
 
 <a href="https://replit.com/@DhirajMagdum" target="_blank">
 <img src=https://img.shields.io/badge/replit-%2324292e.svg?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
