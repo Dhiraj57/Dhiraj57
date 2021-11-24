@@ -1,12 +1,14 @@
 ![](https://hit.yhype.me/github/profile?user_id=77713888)
 
+<div align="center">
+
 [![MastHead](https://github.com/Dhiraj57/Dhiraj57/blob/main/soc/webpage.png)](https://dhiraj57.github.io/Web-Peg_02/)
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> -->
 
 
-# Hello there! 👋🏻 I am Dhiraj Magdum! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I'm Dhiraj Magdum! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I'm the hero of a thousand stories. I'm a superhero, an assassin a soldier. I've slain dragons and traveled through portals. 
 I am a spartan, a commander. A king. I've saved a thousand worlds and countless more lives...!  You see, video games have ruined my life. But the good thing is, I have two more. 😜 
@@ -25,13 +27,12 @@ This is what keeps me up at night, a never ending thirst to create beautiful thi
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [Pacman](https://github.com/Dhiraj57/Pacman)     | Clone of the Pac-Man game using c++ and SFML. 
+| [Co-op Snake](https://github.com/Dhiraj57/Co-Op_Snake_2D)   | 2D snake game with two player mode.
+| [Wall & Eve](https://github.com/Dhiraj57/Wall-and-Eve)     | Endless runner game which has two different modes.
+| [Platformer](https://github.com/Dhiraj57/2D-Platformer-Game)     | 2D platformer game built using unity engine. 
+| [Simple Shooter](https://github.com/Dhiraj57/SimpleShooter)     | Third person shooter game built using unreal engine.
+| [RPG Adventure Game](https://github.com/Dhiraj57/RPG-Adventure-Game)     | Text based RPG adventure game created using c++.
  
  
 <!-- 
@@ -81,11 +82,25 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
 ![Dino](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/main/dino.gif)
 
  <br/>
+ 
+ 
+ <table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=Dhiraj57&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dhiraj Magdum" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhiraj57&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dhiraj Magdum" /></td>
+  </tr>
+</table>
+
+<!-- <div align="center"> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj57&theme=dark" alt="Dhiraj Magdum" /></p>
+  
+ 
 
 My contribution graph :
 ![Watch my contribution graph !](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/master/soc/snake.svg)
 
-
+</div>
 
 
 
