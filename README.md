@@ -8,16 +8,20 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> -->
 
 
-# Hello there! 👋🏻 I'm Dhiraj Magdum! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I'm <a href="https://www.linkedin.com/in/dhiraj-magdum/" target="_blank"> Dhiraj Magdum! </a> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
+<div align="justify">
+ 
 I'm the hero of a thousand stories. I'm a superhero, an assassin a soldier. I've slain dragons and traveled through portals. 
 I am a spartan, a commander. A king. I've saved a thousand worlds and countless more lives...!  You see, video games have ruined my life. But the good thing is, I have two more. 😜 
 
 In a nutshell, I'am gamer, game developer and a game artist. At the core, I am a explorer who loves trying new things.
 This is what keeps me up at night, a never ending thirst to create beautiful things and share them with the world.
 
+</div> 
+ 
 ### Check out my latest creations on my [YouTube Channel](https://www.youtube.com/channel/UC0IIGVFJE3vCvDO0FXDnQwg). Here are some of my recent projects:
-
+ 
 <br/>
 
 [![Dhiraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhiraj57&theme=react-dark)](https://github.com/Dhiraj57/github-readme-activity-graph)
@@ -50,9 +54,8 @@ This is what keeps me up at night, a never ending thirst to create beautiful thi
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
 
-
-<br/>  
- -->
+<br/>   -->
+ 
 ## Connect with me 🤝🏻
 Usually, you can find me at my desk, sipping my cafe while implementing new feature in my game. But in any case, you can also get in touch below.
 
@@ -97,7 +100,7 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
   
  
 
-My contribution graph :
+<!-- My contribution graph : -->
 ![Watch my contribution graph !](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/master/soc/snake.svg)
 
 </div>
