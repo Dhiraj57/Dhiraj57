@@ -92,7 +92,7 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
  
 
 <!-- My contribution graph : -->
-![Watch my contribution graph !](https://raw.githubusercontent.com/Dhiraj57/Dhiraj57/master/soc/snake.svg)
+![Watch my contribution graph !](https://github.com/Dhiraj57/Dhiraj57/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
