@@ -15,7 +15,7 @@
 I'm the hero of a thousand stories. I'm a superhero, an assassin a soldier. I've slain dragons and traveled through portals. 
 I am a spartan, a commander. A king. I've saved a thousand worlds and countless more lives...!  You see, video games have ruined my life. But the good thing is, I have two more. 😜 
 
-In a nutshell, I'am gamer, game developer and a game artist. At the core, I am a explorer who loves trying new things.
+In a nutshell, I'm gamer, game developer and a game artist. At the core, I am a explorer who loves trying new things.
 This is what keeps me up at night, a never ending thirst to create beautiful things and share them with the world.
 
 </div> 
